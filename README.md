@@ -6,7 +6,7 @@ The main purpose of this analysis is to understand the impact of a specific data
 The district summary is not affected due to the school type is "chartered".
 ### How is the school summary affected?
 The school summary affected changed from a lower rate to following picture:
-
+[school report after data completion](https://github.com/Fredericxu/School_District_Analysis/blob/main/Resources/Result%20after%20complete.png/)
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 Make the THS into 6th school for total 15 schools for overall passing scores.
 ### How does replacing the ninth-grade scores affect the following:
